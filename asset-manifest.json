@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sign-Up-Form_CSI_W1/static/css/main.e8a5c069.css",
+    "main.js": "/Sign-Up-Form_CSI_W1/static/js/main.6a200fc2.js",
+    "index.html": "/Sign-Up-Form_CSI_W1/index.html",
+    "main.e8a5c069.css.map": "/Sign-Up-Form_CSI_W1/static/css/main.e8a5c069.css.map",
+    "main.6a200fc2.js.map": "/Sign-Up-Form_CSI_W1/static/js/main.6a200fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a5c069.css",
+    "static/js/main.6a200fc2.js"
+  ]
+}
